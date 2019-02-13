@@ -1,0 +1,53 @@
+body {
+    font-family: 'Fondamento', Georgia, 'Times New Roman', serif, cursive;
+    font-family: 'Felipa', cursive;
+    font-family: 'Staatliches', cursive;
+    font-family: 'Hanalei Fill', cursive;
+    align-content: center;      
+    color: rgb(73, 12, 12);      
+    font-size: 1.5em;
+    text-align:center;
+    vertical-align:center;
+    line-height: 36px;  
+}
+
+  .container {
+    display: flex;
+    justify-content: center;
+    background-color: salmon;   
+}
+
+  .center {      
+    width: 1024px;
+    height: 768px;
+    padding-top: 200px;      
+   
+  }
+
+  .wrapper {
+    padding-left: 330px;
+  }
+
+  #won {
+    color: lightcyan (70, 223, 243);
+    font-size: 1.5em;
+  }
+
+  #lost {
+    color: rebeccapurple;
+    font-size: 1.5em;
+  }
+
+  #attempts {
+    color: gold;
+    font-size: 1.2em;
+  }
+
+  #playerGuess {
+    color: skyblue;
+    font-size: 1.5em;
+  }
+
+  h1 {
+    font-size: 1.6em;
+  }
